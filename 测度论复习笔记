@@ -1,0 +1,31 @@
+1.基本概念复习： 
+dénombrabilité :
+               1.injection avec N (这一定义包括了有限集和可数集）
+               2.bijection entre N et Z （原则：正负对奇偶）
+               3.réunion dénombrable est dénombrable 
+               4.produit dénombrable est dénombrable 
+               5.Tout produit cartésien fini d’ensembles dénombrables est dénombrable (par récurrence)
+               contre exemple : (0,1) ^N indenombrable,est il est equipotentiel avec R
+               6.sous-ensemble de ensemble dénombrable est débombrable 
+               7.
+tribus :
+1.propriété de tribus : 1 X et ensemble vide est dedans. 2.stable par passage complémentaire 3.passage par réunion dénombrable
+2.自然的结果 ： intersectin fini , 对称差集，
+3.
+  
+borélien ：tribus engendréé par tous les ouvert sur R:
+           所有的borélien 可以recouvert par rectangle dénombrable /boule dénombrable：
+           toute sous partie de R dénombrable est borélien
+           
+tribus engendré ： l'intersection de tous les tribus qui contient une classe ，所有的tribus 包括的一个集合。
+                  关于证明命题，如果要证明 A和sigma(B) 等价。证明，1.A属于B 2. A是一个tribus 且B属于A
+                  注：B不一定非得是一个tribus
+                  关于证明命题： 如果要证明sigma（A） 和sigma(B)等价。证明 1.A属于sigma B  2.B属于sigma A.
+                  lemme de transport:  f^-1(sigma(A))=sigmaf^-(A）
+                  1.证明B(Rbar）是一个tribus 
+                   
+                  tribus borélien， 由任意开集，闭集组成。
+                  在R上所有的interfavlle réunion finie不是一个tribus ，但是由它engendre 的tribus是
+mesure:
+caractériscation équivalence
+application mesurable 
